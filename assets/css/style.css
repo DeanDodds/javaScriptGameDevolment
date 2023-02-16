@@ -33,6 +33,16 @@
     height: 700px;
 }
 
+#canvas7,
+#canvas8 {
+    width: 700px;
+    height: 700px;
+}
+
+.canvas{
+    border: 3px solid black;
+}
+
 
 .wrap {
     display: flex;
